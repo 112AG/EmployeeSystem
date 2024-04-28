@@ -1,0 +1,30 @@
+Homepage--->
+  1. signin/Registration(Authontic)---
+    1. if USER Authontic->Resistration success
+    2. else you are not authontic employee
+  2. login
+    1. if USER Authontic->Login success
+      1.Admin (HR, MANAGER, Founder)
+      2.Employee
+    2. else you are not authontic employee
+  
+ 2. If Employee login Section (Employee can view only)--->
+    1. punch
+    2. get personal info
+       1. Leave 
+         1. pending Leave
+         2. total Leave
+       2. Salary
+       3. Joinning Date
+       4. Employee email-id
+       5. Employee code
+       6. Attandance
+       7. Designation (Employee Position)
+       8. Address
+       9. mobile
+       10.Aadhar 
+
+3. If Admin Login Section (Admin can read, unpdate, insert and delete)
+ 1. Admin create a Authontic
+   1. EMP-code
+   2. EMAIL-ID
